@@ -1,0 +1,32 @@
+/* NavBar*/
+.topnav {
+    background-color: #e66465;
+    overflow: hidden;
+  }
+
+/* NavBar style */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  /* Hover link color */
+  .topnav a:hover {
+    background-color: #f97c7c;
+    color: black;
+  }
+
+  /* Current link color distinction */
+  .topnav a.active {
+    background-color: #d20000;
+    color: white;
+  }
+
+  /* put a bottomborder/shadow on navbar*/
+  nav {
+    border-bottom: 3px solid #444;
+  }

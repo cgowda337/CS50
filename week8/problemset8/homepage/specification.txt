@@ -1,0 +1,21 @@
+HTML tags:
+
+1. <link> : use this to connect to the styles/clocks.css files
+2. <script> : use this to load the Bootstrap, and some of its components like the accordion
+3. <nav> : contains navigation bar
+4. <a> : represents the hyperlink
+5. <h1> : displays main heading
+6. <h2> : displays a secondary heading
+7. <div> : used to separate grouped elements
+8. <strong> : emphasizes specific sections of text
+9. <iframe> : displays the embedded Youtube video
+10: <img> : displays the linked image within the homepage directory
+
+CSS tags:
+
+1. body: selector that styles the entire page
+2. .container : centers content and adds padding/background to the content
+3. .topnav : targets elements with the topnav class; gets used to build out the rest of the clock
+4. .topnav a:hover : references the topnav class and adds a hover effect to it
+5. .clock-title : styles the title of the clock with font size, margin, glow
+

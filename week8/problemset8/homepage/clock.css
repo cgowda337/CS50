@@ -1,0 +1,34 @@
+/* build out the body */
+body {
+    background: #414345;
+    color: #f2f2f2;
+    font-family: 'Papyrus', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* center the clock */
+.container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 40px 60px
+}
+
+/* add title for the clock */
+.clock-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #ffcccb;
+}
+
+/* actual clock display*/
+.clock-display {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 4px;
+    color: black;
+    text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc;
+}
